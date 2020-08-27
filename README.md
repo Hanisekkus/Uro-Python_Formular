@@ -1,44 +1,38 @@
-# [Uro/python] Formulář/Form
-
-Formulář podle zadání z mého předmětu [URO], psán v pythonu s využitím Tkinter.
+# [Uro/python] Form
 
 Task: Form from subject [URO] written in python with use of Tkinter.
 
-## Instalace/Instalation
+*Read this in other language: [**english**](https://github.com/Hanisekkus/Uro-Python_Formular), [**czech**](https://github.com/Hanisekkus/Uro-Python_Formular/blob/master/README.cz.md)*
+
+
+## Instalation
 
 ### Python
-* Ujisti se, že máš [python](https://www.python.org/downloads/) nainstalován.
 * Make sure you have installed [python](https://www.python.org/downloads/) on your device.
  
-  > Vyzkoušeno na verzi 3.8.1
-  
   > Tested on v.3.8.1
 
 ### Tkinter
-* Ujisti se, že máš Tkinter na svém zařízení.
 * Make sure you have installed Tkinter on your device.
  
   ```bash
   python -m tkinter
   ```
 
-### Naklonuj si projekt/Clone the project
-* V terminálu:
+### Clone the project
 * In terminal:
 
    ```bash
    git clone https://github.com/Hanisekkus/Uro-Python_Formular.git
    ```
 
-**_.. nebo/or_** 
-* V prohlížeci:
+**_.. or_** 
 * In browser:
 
-   [**Stáhnout/Download**](https://github.com/Hanisekkus/Uro-Python_Formular/archive/master.zip)
+   [**Download**](https://github.com/Hanisekkus/Uro-Python_Formular/archive/master.zip)
 
-## Spuštení/Usage
+## Usage
 
-* V terminálu ve složce s projektem:
 * In terminal goes to the directory with project:
 
    ```bash
